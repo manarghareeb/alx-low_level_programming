@@ -3,9 +3,8 @@
 #include <stdio.h>
 
 /**
- * main -Entry point
- * Description: 'Print if number is posetive, zero or negative'
- * return: Always 0 (Success)
+ * main - Print if number is posetive, zero or negative
+ * Return: Always (Success)
  *
  */
 
