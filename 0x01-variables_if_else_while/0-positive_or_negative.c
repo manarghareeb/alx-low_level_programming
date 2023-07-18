@@ -4,6 +4,7 @@
 
 /**
  * main -Entry point
+ * Description: 'Print if number is posetive, zero or negative'
  * return: Always 0 (Success)
  *
  */
